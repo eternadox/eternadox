@@ -8,4 +8,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50></p>
 <h1>Other</h1>
 <img src="https://discord.c99.nl/widget/theme-1/792118923477647420.png">
-<img href="https://www.youtube.com/channel/UCExJL2NQZLL5jmw08YA9srQ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width=75 height=50>
+<a href="https://www.youtube.com/channel/UCExJL2NQZLL5jmw08YA9srQ">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width=75 height=50>
+</a>
