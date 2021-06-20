@@ -1,5 +1,5 @@
 <h1>Eternadox</h1>
-  <img src="https://github-readme-stats.vercel.app/api/?username=Eternadox&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=false&icon_color=4F8CC9&hide_title=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Eternadox&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&theme=dark"/>
 <h1>Programming Languages</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternadox">
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50>
