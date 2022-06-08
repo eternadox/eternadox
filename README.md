@@ -16,5 +16,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width=75 height=50>
 </a>
 <a href="https://twitter.com/4Eternadox">
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/800px-Twitter_Logo_as_of_2021.svg.png" width=55 height=50>
+ <img src="https://pbs.twimg.com/profile_images/1488548719062654976/u6qfBBkF.jpg" width=55 height=50>
 </a>
