@@ -16,5 +16,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width=75 height=50>
 </a>
 <a href="https://twitter.com/4Eternadox">
- <img src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" width=55 height=50>
+ <img src="2021 Twitter logo - blue.png" width=55 height=50>
 </a>
