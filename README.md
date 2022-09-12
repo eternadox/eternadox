@@ -13,8 +13,3 @@
 <h1>Other</h1>
 [![Discord](https://lanyard.cnrad.dev/api/792118923477647420)](https://discord.com/users/792118923477647420)
 <a href="https://www.youtube.com/channel/UCExJL2NQZLL5jmw08YA9srQ">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width=75 height=50>
-</a>
-<a href="https://twitter.com/4Eternadox">
- <img src="2021 Twitter logo - blue.png" width=55 height=50>
-</a>
