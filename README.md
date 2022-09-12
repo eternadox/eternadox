@@ -10,6 +10,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50>
 
 </p>
-<h1>Other</h1>
+
 [![Discord](https://lanyard.cnrad.dev/api/792118923477647420)](https://discord.com/users/792118923477647420)
-<a href="https://www.youtube.com/channel/UCExJL2NQZLL5jmw08YA9srQ">
